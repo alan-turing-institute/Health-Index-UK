@@ -1,0 +1,61 @@
+code,label,Indicator,Type of value and Unit,
+hle,Life expectancy at birth,Life expectancy at birth,Composite value (Years),Years
+avoid_mort,Avoidable deaths,Avoidable deaths,"Age-standardised (ESP) mortality rate per 100,000",Rate
+suicide,Suicides,Suicides,"Age-standardised (ESP 2013) mortality rate per 100,000",Rate
+inf_mort,Infant mortality,Infant mortality,rate per 1000 live births,Rate
+dementia,Prevalence of dementia,Prevalence of dementia,%,Percentage
+musculo,Prevalence of musculoskeletal disease,Prevalence of musculoskeletal disease,%,Percentage
+resp,Prevalence of respiratory disease,Prevalence of respiratory disease,%,Percentage
+cvd,Prevalence of cardiovascular disease,Prevalence of cardiovascular disease,%,Percentage
+cancer,Prevalence of cancer,Prevalence of cancer,%,Percentage
+diab,Prevalence of diabetes,Prevalence of diabetes,%,Percentage
+disability,Disability,Disability,%,Percentage
+diff_adls,Percentage with long-term condition which reduces ability to carry out day-to-day activities,Percentage with long-term condition which reduces ability to carry out day-to-day activities,%,Percentage
+kidney,Prevalence of chronic kidney disease,Prevalence of chronic kidney disease,%,Percentage
+frailty,Hip fractures in people,Hip fractures in people,"Age-standardised (ESP 2013) per 100,000",Rate
+srwb_sat,Mean satisfaction score,Mean satisfaction score,mean,Continous 
+srwb_worth,Mean worthwhile score,Mean worthwhile score,mean,Continous 
+srwb_hap,Mean happiness score,Mean happiness score,mean,Continous 
+srwb_anx,Mean anxiety score,Mean anxiety score,mean,Continous 
+mh,Prevalence of mental health condition,Prevalence of mental health condition,%,Percentage
+semh_child,"% of school pupils with social, emotional and mental health needs","% of school pupils with social, emotional and mental health needs",%,Percentage
+self_harm,Hospital admissions as a result of self harm,Hospital admissions as a result of self harm,"Age-standardised rate (ESP 2013) per 100,000",Rate
+ow_obs_child,Overweight and obesity,Overweight and obesity,%,Percentage
+ow_obs,Percentage of adults (aged 18+) classified as overweight or obese modelled and age-standardised,Percentage of adults (aged 18+) classified as overweight or obese modelled and age-standardised,%,Percentage
+hyp_ten,Prevalence of hypertension,Prevalence of hypertension,%,Percentage
+low_bw,Low birth weight of term babies (less than 2500g),Low birth weight of term babies (less than 2500g),%,Percentage
+can_screen,Cancer screening,Cancer screening,%,Percentage
+alc,Admission episodes for alcohol-related conditions (Narrow),Admission episodes for alcohol-related conditions (Narrow),"Age-standardised (ESP 2013) rate per 100,000 ",Rate
+smoke,Smoking Prevalence in adults (18+) - current smokers�,Smoking Prevalence in adults (18+) - current smokers ,%,Percentage
+drug,Drug misuse,Drug misuse,"per 100,000 (age standardised ESP)",Rate
+activity,Percentage of physically active adults (>150 minutes/week),Percentage of physically active adults (>150 minutes/week),%,Percentage
+eating,Proportion of the population meeting the recommended '5-a-day' on a 'usual day' (adults),Proportion of the population meeting the recommended '5-a-day' on a 'usual day' (adults),%,Percentage
+vac,Population vaccination coverage - MMR for two doses (5 years old),,%,Percentage
+sti_screen,"New STI diagnoses (exc chlamydia aged <25) / 100,000","New STI diagnoses (exc chlamydia aged <25) / 100,000","crude rate per 100,000",Rate
+teen_preg,"Conceptions in women aged under 18 per 1,000 females aged 15-17","Conceptions in women aged under 18 per 1,000 females aged 15-17",crude rate per 1000,Rate
+in_eet,"Proportion of pupils in sustained educaiton, employment or training in the year after KS4","Proportion of pupils in sustained educaiton, employment or training in the year after KS4",%,Percentage
+pupil_abs,Percentage of persistent absentees,Percentage of persistent absentees,%,Percentage
+ey_dev,Percentage of students (5 years old) achieving a good level of development,Percentage of students (5 years old) achieving a good level of development,%,Percentage
+training,Percentage of working age adults (16 to 64) who received job-related training in the last 13 weeks,Percentage of working age adults (16 to 64) who received job-related training in the last 13 weeks,%,Percentage
+ks4_dev,Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs KS4,Percentage of pupils achieving grades 4 or above in English and Mathematics GCSEs KS4,%,Percentage
+low_pay,% of jobs earning below NLW,% of jobs earning below NLW,% of jobs,Percentage
+pov_child,Children in absolute low income,Children in absolute low income,%,Percentage
+unempl,Model-based estimates of unemployment,Model-based estimates of unemployment,%,Percentage
+wp_safety,RIDDOR reported non-fatal injuries,RIDDOR reported non-fatal injuries,"per 100,000",Rate
+incare_child,Rate of children in state care,Rate of children in state care,"per 10,000 (crude rate)",Rate
+air_poll,Air pollution,Air pollution,Mean µg/m3,Continous 
+pub_greenspace,"Average distance to nearest Park, Public Garden","Average distance to nearest Park, Public Garden",Mean,Continous 
+priv_greenspace,Access to garden space,Access to garden space,%,Percentage
+trans_noise,Noise pollution,Noise pollution,%,Percentage
+env_noise,Rate of complaints about noise,Rate of complaints about noise,Crude rate per 1000,Rate
+road_acc,Volume of traffic per area,Volume of traffic per area,accidents per km^2,Rate
+house_overcrowd,Household overcrowding,Household overcrowding,Percentage of households,Percentage
+rough_sleep,Number of people sleeping rough,Number of people sleeping rough,"per 100,000",Rate
+house_afford,Housing affordability,Housing affordability,Ratio,Ratio
+GP_dist,Distance/travel time to nearest GP practice,Distance/travel time to nearest GP practice,"Median, km",Continous 
+pharm_dist,Distance/travel time to nearest pharmacy (dispensary),Distance/travel time to nearest pharmacy (dispensary),"Median, km",Continous 
+sport_dist,Distance/travel time to earest sports or leisure facility,Distance/travel time to earest sports or leisure facility,"Median, km",Continous 
+crime_pers,Police recorded personal crime,Police recorded personal crime,per 1000 persons,Rate
+depres,Depression,Depression,,Percentage
+road_safety,Road Safety,,,
+road_traff,Road traffic ,,,

@@ -1,0 +1,6 @@
+{"log": ["avoid_mort", "suicide", "musculo", "srwb_anx", "alc", "drug", "unempl", "incare_child", "inf_mort", "pub_greenspace", "env_noise", "trans_noise", "road_safety", "rough_sleep", "house_afford", "GP_dist", "pharm_dist", "sport_dist"], 
+ "sqrt": ["depres", "self_harm", "teen_preg", "in_eet", "semh_child", "road_traff"], 
+ "cbrt": ["low_bw", "pov_child", "wp_safety"], 
+ "square": ["resp", "ow_obs_child", "hyp_ten"], 
+ "cube": ["srwb_sat", "srwb_worth", "srwb_hap", "ow_obs", "can_screen", "vac", "ey_dev", "priv_greenspace"], 
+ "reciprocal": ["sti_screen", "house_overcrowd"]}

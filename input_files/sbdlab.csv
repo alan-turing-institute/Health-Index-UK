@@ -1,0 +1,22 @@
+sbd,sbdlab
+Pe.1,Mortality 
+Pe.2,Physical health conditions
+Pe.3,Difficulties in daily life
+Pe.4,Personal Well being
+Pe.5,Mental Health
+Li.1,Physiological risk factor
+Li.2,Behavioural risk factor
+Li.3,Unemployment
+Li.4,Working conditions
+Li.5,Risk factor for children
+Li.6,Children and Young's Education
+Li.7,Protective Measures
+Pl.1,Access to green space
+Pl.2,Local Enviroment 
+Pl.3,Access  to housing
+Pl.4,Access to service
+Pl.5,Crime
+Pe,People
+Li,Lives
+Pl,Places
+Index,Health Index

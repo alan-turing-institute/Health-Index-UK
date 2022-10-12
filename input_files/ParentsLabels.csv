@@ -1,0 +1,80 @@
+,Labels,Parents,Labels2,Labels3
+1,diab,Li.1,Diabetes,Diabetes
+2,ow_obs,Li.1,Adult Obesity,Adult obesity
+3,hyp_ten,Li.1,High blood pressure,High blood pressure
+4,alc,Li.2,Alcohol misuse,Alcohol misuse
+5,smoke,Li.2,Smoking,Smoking
+6,drug,Li.2,Drug misuse,Drug misuse
+7,activity,Li.2,Physical activity,Physical activity
+8,eating,Li.2,Healthy eating,Healthy eating
+9,unempl,Li.3,Unemployment,Unemployment
+10,training,Li.4,Job-related training,Job-related training
+11,low_pay,Li.4,Low Pay,Low Pay
+12,wp_safety,Li.4,Workplace safety,Workplace safety
+13,inf_mort,Li.5,Infant Mortality ,Infant Mortality 
+14,semh_child,Li.5,Childern’s health,Childern’s health
+15,ow_obs_child,Li.5,Overweight and obesity in children,Childern obesity
+16,low_bw,Li.5,Low birthweight,Low birthweight
+17,teen_preg,Li.5,Teenage pregnancy,Teenage pregnancy
+18,pov_child,Li.5,Child Poverty,Child Poverty
+19,incare_child,Li.5,Childern in care,Childern in care
+20,in_eet,Li.6,Scholarity,Scholarity
+21,pupil_abs,Li.6,Pupil absences,Pupil absences
+22,ey_dev,Li.6,Early years development,Child Development
+23,ks4_dev,Li.6,Eduacation achivement,Education 
+24,can_screen,Li.7,Cancer screening attendance,Cancer screening 
+25,vac,Li.7,Child vaccination coverage,Child vaccination 
+26,sti_screen,Li.7,Sexual health,Sexual health
+27,hle,Pe.1,Life expectancy,Life expectancy
+28,avoid_mort,Pe.1,Avoidable mortality,Avoidable mortality
+29,dementia,Pe.2,Dementia,Dementia
+30,musculo,Pe.2,Musculoskeletal conditions,Musculoskeletal 
+31,resp,Pe.2,Respiratory conditions,Respiratory 
+32,cvd,Pe.2,Cardiovascular conditions,Cardiovascular 
+33,cancer,Pe.2,Cancer,Cancer
+34,kidney,Pe.2,Kidney and liver disease,Kidney disease
+35,disability,Pe.3,Disability,Disability
+36,diff_adls,Pe.3,Difficulties in daily life,Difficulties in daily life
+37,frailty,Pe.3,Frailty,Frailty
+38,srwb_sat,Pe.4,Life satisfaction,Life satisfaction
+39,srwb_worth,Pe.4,Activities in life are worthwhile,Life worth
+40,srwb_hap,Pe.4,Happiness,Happiness
+41,srwb_anx,Pe.4,Feelings of anxiety,Feelings of anxiety
+42,suicide,Pe.5,Suicides,Suicides
+43,depres,Pe.5,Depression,Depression
+44,self_harm,Pe.5,Self-harm,Self-harm
+45,pub_greenspace,Pl.1,Public green space,Public green space
+46,priv_greenspace,Pl.1,Private outdoor space,Private outdoor space
+47,air_poll,Pl.2,Air pollution,Air pollution
+48,trans_noise,Pl.2,Noise pollution,Noise pollution
+49,env_noise,Pl.2,Noise complaints,Noise complaints
+50,road_safety,Pl.2,Road safety,Road safety
+51,road_traff,Pl.2,Road traffic,Road traffic
+52,house_overcrowd,Pl.3,House overcrowed,House overcrowed
+53,rough_sleep,Pl.3,Rough sleeping,Rough sleeping
+54,house_afford,Pl.3,Housing affordability,Housing affordability
+55,GP_dist,Pl.4,Distance to general practitioner services,Distance to health services
+56,pharm_dist,Pl.4,Distance to pharmacies,Distance to pharmacies
+57,sport_dist,Pl.4,Distance to sports or leisure facilities,Distance to sports 
+58,crime_pers,Pl.5,Personal crime,Personal crime
+59,Li.1,Lives,Li.1,Li.1
+62,Li.2,Lives,Li.2,Li.2
+67,Li.3,Lives,Li.3,Li.3
+68,Li.4,Lives,Li.4,Li.4
+71,Li.5,Lives,Li.5,Li.5
+78,Li.6,Lives,Li.6,Li.6
+82,Li.7,Lives,Li.7,Li.7
+85,Pe.1,People,Pe.1,Pe.1
+87,Pe.2,People,Pe.2,Pe.2
+93,Pe.3,People,Pe.3,Pe.3
+96,Pe.4,People,Pe.4,Pe.4
+100,Pe.5,People,Pe.5,Pe.5
+103,Pl.1,Places,Pl.1,Pl.1
+105,Pl.2,Places,Pl.2,Pl.2
+110,Pl.3,Places,Pl.3,Pl.3
+113,Pl.4,Places,Pl.4,Pl.4
+116,Pl.5,Places,Pl.5,Pl.5
+117,Lives,Index,Lives,Lives
+143,People,Index,People,People
+161,Places,Index,Places,Places
+175,Index,,Index,Index
