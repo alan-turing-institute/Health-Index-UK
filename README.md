@@ -6,7 +6,7 @@ This repository contains data and code to compute the original Office for Nation
 
 This folder contains data and code to accompany the paper on ['Assessments and developments in constructing a National Health Index for policy making, in the United Kingdom'](https://arxiv.org/abs/2210.05154). 
 
-We have included R  scripts  to compute the Beta (experimental) Health Index and the modified version presented in the paper, where we also conducted and assessment on statistical coherence and sensitivity  & uncertainty analysis.
+We have included R  scripts  to compute the Beta (experimental) Health Index and the modified version presented in the paper, where we also conducted an assessment on statistical coherence and sensitivity  & uncertainty analysis.
 
 ##  Repository Structure
 ```
